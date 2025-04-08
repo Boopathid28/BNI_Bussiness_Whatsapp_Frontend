@@ -1,0 +1,1 @@
+export const primaryLoadingColor = "#CF2030";
